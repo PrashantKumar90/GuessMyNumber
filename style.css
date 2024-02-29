@@ -1,0 +1,64 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #222;
+    color:aliceblue;
+    font-family: 'Press Start 2P';
+/* @font-face {
+    font-family: ;
+    src: url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+} */
+}
+.upperBox{
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+#con{
+    font-size: 11px;
+}
+.again{
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+}
+h1{
+ text-align: center;
+ font-size: 30px;
+}
+
+.sec-num{
+    padding: 10px;
+    height: 50px;
+    width: 130px;
+    color: black;
+    font-size: 45px;
+    background-color: aliceblue;
+}
+.inpt{
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 30px;
+    height: 50px;
+    width: 100px;
+    font-size: 40px;
+}
+.check{
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.masala{
+    font-size: 13px;
+    display: grid;
+    margin-right: 30px;
+    justify-content: end;
+}
